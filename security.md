@@ -189,3 +189,5 @@ Use the button in the Quick Start section.
 ---
 
 *Forza Horizon 6 · Updated 2026-11-14 · Shared under the MIT License*
+
+<!-- rev 2026-11-14 -->
